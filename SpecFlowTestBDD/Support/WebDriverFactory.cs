@@ -23,7 +23,7 @@ namespace SpecFlowTestBDD.Support
                 if (instance == null)
                 {
                 
-                 instance = CreateWebDriver(BrowserType.Firefox);
+                 instance = CreateWebDriver(BrowserType.Chrome);
                        
                     
                 }
