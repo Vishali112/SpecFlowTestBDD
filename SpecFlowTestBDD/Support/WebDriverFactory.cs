@@ -16,7 +16,7 @@ namespace SpecFlowTestBDD.Support
 
         
 
-        public static IWebDriver Instance
+        public static IWebDriver getInstance
         {
             get
             {

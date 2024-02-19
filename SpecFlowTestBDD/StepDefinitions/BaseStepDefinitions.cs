@@ -11,7 +11,7 @@ namespace SpecFlowTestBDD.StepDefinitions
    
     public class BaseStepDefinition
     {
-        public IWebDriver driver = WebDriverFactory.Instance;
+        public IWebDriver driver = WebDriverFactory.getInstance;
 
     }
 }
